@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on projects that serves a purpose in providing value for the community
 - 📫 You can reach me by sending an email to camus.luis95@gmail.com
-- 😄 Pronouns: pogi
+- 😄 Pronouns: Just "He" cause I'll never be him
 - ⚡ Fun fact: Aside from my passion of developing applications. I do enjoy playing music and riding different types of vehicles
 
 <!---
