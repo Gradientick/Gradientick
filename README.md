@@ -5,6 +5,7 @@
 - 📫 You can reach me by sending an email to camus.luis95@gmail.com
 - 😄 Pronouns: Just "He" cause I'll never be him
 - ⚡ Fun fact: Aside from my passion of developing applications. I do enjoy playing music and riding different types of vehicles
+- 💓 Favorite Line: The same God who turned water into wine will turn you into mine
 
 <!---
 Gradientick/Gradientick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
